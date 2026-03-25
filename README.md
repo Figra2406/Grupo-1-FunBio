@@ -4,7 +4,7 @@ presentacion {https://drive.google.com/file/d/1APAxzITDTnZAxrqRaGdpekIY7nXnorQF/
 #Descripción de grupo
 # Integrantes del Equipo y Roles
 1. Lucero Cercado Medina
-   * **Edad:** 
+   * **Edad:** 18 años
    * **Sobre mí:**
    * **Rol:**
    * **Responsabilidades:**
