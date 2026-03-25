@@ -11,7 +11,7 @@ Grupo 1 Funbio WAZAAAAAAAAAAAAAAA
    * **Rol:**
    * **Responsabilidades:**
 4. Flavia Tasayco Cueva
-   * **Edad:** 
+   * **Edad:** 19 años 
    * **Sobre mí:**
    * **Rol:**
    * **Responsabilidades:**
