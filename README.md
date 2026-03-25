@@ -32,7 +32,7 @@ Grupo enfocado en crear soluciones en el area de salud ante..., trabajando de fo
    * **Rol:** Apoyo
    * **Responsabilidades:**
 8. Fabrizzio Céliz Gálvez
-   ![Fabrizzio](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/WhatsAppImage2026-03-25at4.32.01PM.jpeg).
+   ![Fabrizzio](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/WhatsApp%20Image%202026-03-25%20at%204.32.01%20PM.jpeg)
    * **Edad:** 
    * **Sobre mí:**
    * **Rol:**
