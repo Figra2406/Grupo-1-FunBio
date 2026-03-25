@@ -1,5 +1,4 @@
 # Grupo-1-FunBio
-presentacion {https://drive.google.com/file/d/1APAxzITDTnZAxrqRaGdpekIY7nXnorQF/view?usp=drivesdk}
 Grupo 1 Funbio
 ![presentación](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/e956cfbc-54ed-46c1-a949-a5efaa04bc89.jpeg)
 # Descripción de grupo
@@ -27,7 +26,7 @@ Grupo enfocado en crear soluciones en el area de salud ante..., trabajando de fo
    * **Rol:** Redacción
    * **Responsabilidades:**
 7. Javier Bernal Garayar
-   ![Javier](https://github.com/Figra2406/Grupo-1-FunBio/edit/main/README.md)
+   ![Javier](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/WhatsApp%20Image%202026-03-25%20at%204.33.11%20PM.jpeg).
    * **Edad:** 24 años
    * **Sobre mí:**
    * **Rol:** Apoyo
