@@ -7,7 +7,6 @@ Grupo con el propósito de crear soluciones innovadoras en el area de ....., tra
 
 ![Foto Grupal](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/IMG_9302.jpeg)
 Grupo enfocado en crear soluciones en el area de salud ante..., trabajando de forma colaborativa en el diseño y desarrollo del proyectos.
->>>>>>> 00188b4e5ce75cf64c26848c7536b194a1dca967
 # Integrantes del Equipo y Roles
 1. Lucero Cercado Medina
    ![Lucero](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/c0296334-5f48-4198-ad20-d8664ba9aa05.jpeg)
@@ -33,6 +32,7 @@ Grupo enfocado en crear soluciones en el area de salud ante..., trabajando de fo
    * **Rol:** Apoyo
    * **Responsabilidades:**
 8. Fabrizzio Céliz Gálvez
+   
    * **Edad:** 
    * **Sobre mí:**
    * **Rol:**
