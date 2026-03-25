@@ -5,7 +5,7 @@ Grupo 1 Funbio WAZAAAAAAAAAAAAAAA
 # Integrantes del Equipo y Roles
 1. Lucero Cercado Medina
    * **Edad:** 18 años
-   * **Sobre mí:**
+   * **Sobre mí:** Me interesa ingenieria de materiales y tejidos 
    * **Rol:**
    * **Responsabilidades:**
 3. Gema Palomino Cusi
