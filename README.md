@@ -33,8 +33,8 @@ Grupo enfocado en crear soluciones en el area de salud ante..., trabajando de fo
    * **Responsabilidades:**
 8. Fabrizzio Céliz Gálvez
    ![Fabrizzio](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/WhatsApp%20Image%202026-03-25%20at%204.32.01%20PM.jpeg)
-   * **Edad:** 
-   * **Sobre mí:**
+   * **Edad:*20* 
+   * **Sobre mí:*Soy visionario*
    * **Rol:**
    * **Responsabilidades:**
 9. Jhogger Cercado Limay
