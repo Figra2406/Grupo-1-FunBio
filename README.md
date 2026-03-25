@@ -1,7 +1,7 @@
 # Grupo-1-FunBio
 Grupo 1 Funbio WAZAAAAAAAAAAAAAAA
 ![presentación]
-#Descripción de grupo
+# Descripción de grupo
 # Integrantes del Equipo y Roles
 1. Lucero Cercado Medina
    * **Edad:** 18 años
