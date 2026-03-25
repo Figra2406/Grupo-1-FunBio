@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # Grupo-1-FunBio
-<<<<<<< HEAD
-Grupo 1 Funbio WAZAAAAAAAAAAAAAAA
 presentacion {https://drive.google.com/file/d/1APAxzITDTnZAxrqRaGdpekIY7nXnorQF/view?usp=drivesdk}
 #Descripción de grupo
 =======
