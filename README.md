@@ -1,7 +1,5 @@
 # Grupo-1-FunBio
 presentacion {https://drive.google.com/file/d/1APAxzITDTnZAxrqRaGdpekIY7nXnorQF/view?usp=drivesdk}
-#Descripción de grupo
-=======
 Grupo 1 Funbio
 ![presentación](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/e956cfbc-54ed-46c1-a949-a5efaa04bc89.jpeg)
 # Descripción de grupo
