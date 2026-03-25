@@ -18,7 +18,7 @@ Grupo enfocado en crear soluciones en el area de salud ante..., trabajando de fo
    * **Responsabilidades:**
 4. Flavia Tasayco Cueva
    * **Edad:** 19 años 
-   * **Sobre mí:**
+   * **Sobre mí:** Estudiante Biomédica PUCP-UPCH
    * **Rol:** Redacción
    * **Responsabilidades:**
 6. Javier Bernal Garayar
