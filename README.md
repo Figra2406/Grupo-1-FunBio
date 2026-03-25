@@ -49,6 +49,3 @@ Grupo enfocado en crear soluciones en el area de salud ante..., trabajando de fo
    * **Sobre mí:**
    * **Rol:**
    * **Responsabilidades:**
-=======
-# ThePapu
->>>>>>> 6f41520dd72c423db2e7aafa57223a34c3d62f5d
