@@ -6,8 +6,8 @@ Grupo 1 Funbio WAZAAAAAAAAAAAAAAA
 1. Lucero Cercado Medina
    * **Edad:** 18 años
    * **Sobre mí:** Me interesa ingenieria de materiales y tejidos 
-   * **Rol:**
-   * **Responsabilidades:**
+   * **Rol:** Impresión
+   * **Responsabilidades:** Supervisar el proceso de impresión
 3. Gema Palomino Cusi
    * **Edad:** 20 años
    * **Sobre mí:** 
