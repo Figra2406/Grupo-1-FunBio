@@ -5,7 +5,6 @@ Grupo 1 Funbio
 # Descripción de grupo
 Grupo con el propósito de crear soluciones innovadoras en el area de ....., trabajando de forma colaborativa en el diseño y desarrollo del proyectos. 
 
-=======
 ![Foto Grupal](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/IMG_9302.jpeg)
 Grupo enfocado en crear soluciones en el area de salud ante..., trabajando de forma colaborativa en el diseño y desarrollo del proyectos.
 >>>>>>> 00188b4e5ce75cf64c26848c7536b194a1dca967
