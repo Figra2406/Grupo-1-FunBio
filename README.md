@@ -2,7 +2,8 @@
 Grupo 1 Funbio
 ![presentación](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/e956cfbc-54ed-46c1-a949-a5efaa04bc89.jpeg)
 # Descripción de grupo
-Grupo con el propósito de crear soluciones innovadoras en el area de ....., trabajando de forma colaborativa en el diseño y desarrollo del proyectos. 
+Grupo creado con el propósito de crear soluciones innovadoras en el area de ....., trabajando de forma colaborativa en el diseño y desarrollo del proyectos. 
+Grupo enfocado en 
 # Integrantes del Equipo y Roles
 1. Lucero Cercado Medina
    * **Edad:** 18 años
