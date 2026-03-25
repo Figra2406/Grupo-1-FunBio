@@ -6,23 +6,24 @@ Grupo 1 Funbio
 Grupo enfocado en crear soluciones en el area de salud ante..., trabajando de forma colaborativa en el diseño y desarrollo del proyectos.
 # Integrantes del Equipo y Roles
 1. Lucero Cercado Medina
-2. ![Lucero](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/c0296334-5f48-4198-ad20-d8664ba9aa05.jpeg)
+   ![Lucero](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/c0296334-5f48-4198-ad20-d8664ba9aa05.jpeg)
    * **Edad:** 18 años
    * **Sobre mí:** Me interesa ingenieria de materiales y tejidos 
    * **Rol:** Impresión
    * **Responsabilidades:** Supervisar el proceso de impresión
 3. Gema Palomino Cusi
-4. ![Gema](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/30d4f00d2cbee6e7cbd1ec99bfc849a7_0.jpeg)
+   ![Gema](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/30d4f00d2cbee6e7cbd1ec99bfc849a7_0.jpeg)
    * **Edad:** 20 años
    * **Sobre mí:** 
    * **Rol:** Gestión 
    * **Responsabilidades:**
 5. Flavia Tasayco Cueva
+   ![Flavia](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/IMG_7878.jpeg)
    * **Edad:** 19 años 
    * **Sobre mí:** Estudiante Biomédica PUCP-UPCH
    * **Rol:** Redacción
    * **Responsabilidades:**
-6. Javier Bernal Garayar
+7. Javier Bernal Garayar
    * **Edad:** 
    * **Sobre mí:**
    * **Rol:**
