@@ -37,7 +37,7 @@ Grupo enfocado en crear soluciones en el area de salud ante..., trabajando de fo
    * **Sobre mí:** Soy Visionario
    * **Rol:**
    * **Responsabilidades:**
-10. Jhogger Cercado Limay
+11. Jhogger Cercado Limay
    * **Edad:*19* 
    * **Sobre mí:*nose*
    * **Rol:*Estudiante*
