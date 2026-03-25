@@ -1,7 +1,7 @@
 # Grupo-1-FunBio
 Grupo 1 Funbio WAZAAAAAAAAAAAAAAA
-presentacion [https://drive.google.com/file/d/1APAxzITDTnZAxrqRaGdpekIY7nXnorQF/view?usp=drivesdk]
-# Descripción de grupo
+presentacion {https://drive.google.com/file/d/1APAxzITDTnZAxrqRaGdpekIY7nXnorQF/view?usp=drivesdk}
+#Descripción de grupo
 # Integrantes del Equipo y Roles
 1. Lucero Cercado Medina
    * **Edad:** 
