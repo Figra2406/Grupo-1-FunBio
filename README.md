@@ -11,7 +11,7 @@ Grupo 1 Funbio WAZAAAAAAAAAAAAAAA
 3. Gema Palomino Cusi
    * **Edad:** 20 años
    * **Sobre mí:** 
-   * **Rol:**
+   * **Rol:** Gestión 
    * **Responsabilidades:**
 4. Flavia Tasayco Cueva
    * **Edad:** 19 años 
