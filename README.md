@@ -3,9 +3,8 @@ presentacion {https://drive.google.com/file/d/1APAxzITDTnZAxrqRaGdpekIY7nXnorQF/
 Grupo 1 Funbio
 ![presentación](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/e956cfbc-54ed-46c1-a949-a5efaa04bc89.jpeg)
 # Descripción de grupo
-<<<<<<< HEAD
 Grupo con el propósito de crear soluciones innovadoras en el area de ....., trabajando de forma colaborativa en el diseño y desarrollo del proyectos. 
->>>>>>> 28980b89f2763e9cc656a098cd44d9e30797719f
+
 =======
 ![Foto Grupal](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/IMG_9302.jpeg)
 Grupo enfocado en crear soluciones en el area de salud ante..., trabajando de forma colaborativa en el diseño y desarrollo del proyectos.
