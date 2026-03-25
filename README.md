@@ -24,9 +24,9 @@ Grupo enfocado en crear soluciones en el area de salud ante..., trabajando de fo
    * **Rol:** Redacción
    * **Responsabilidades:**
 7. Javier Bernal Garayar
-   * **Edad:** 
+   * **Edad:** 24 años
    * **Sobre mí:**
-   * **Rol:**
+   * **Rol:** Apoyo
    * **Responsabilidades:**
 8. Fabrizzio Céliz Gálvez
    * **Edad:** 
