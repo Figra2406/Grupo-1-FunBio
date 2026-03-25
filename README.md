@@ -38,7 +38,7 @@ Grupo enfocado en crear soluciones en el area de salud ante..., trabajando de fo
    * **Rol:**
    * **Responsabilidades:**
 9. Jhogger Cercado Limay
-   * **Edad:** 
-   * **Sobre mí:**
-   * **Rol:**
+   * **Edad:*19* 
+   * **Sobre mí:*nose*
+   * **Rol:*Estudiante*
    * **Responsabilidades:**
