@@ -26,12 +26,14 @@ Grupo enfocado en crear soluciones en el area de salud ante..., trabajando de fo
    * **Rol:** Redacción
    * **Responsabilidades:**
 7. Javier Bernal Garayar
+   
    ![Javier](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/WhatsApp%20Image%202026-03-25%20at%204.33.11%20PM.jpeg).
    * **Edad:** 24 años
    * **Sobre mí:**
    * **Rol:** Apoyo
    * **Responsabilidades:**
 9. Fabrizzio Céliz Gálvez
+    
    ![Fabrizzio](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/WhatsApp%20Image%202026-03-25%20at%204.32.01%20PM.jpeg)
    * **Edad:** 20 
    * **Sobre mí:** Soy Visionario
