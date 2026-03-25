@@ -16,7 +16,7 @@ Grupo 1 Funbio WAZAAAAAAAAAAAAAAA
 4. Flavia Tasayco Cueva
    * **Edad:** 19 años 
    * **Sobre mí:**
-   * **Rol:**
+   * **Rol:** Redacción
    * **Responsabilidades:**
 6. Javier Bernal Garayar
    * **Edad:** 
