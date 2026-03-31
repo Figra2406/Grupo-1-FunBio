@@ -35,13 +35,13 @@ Grupo enfocado en crear soluciones en el area de salud ante..., trabajando de fo
     
    ![Fabrizzio](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/WhatsApp%20Image%202026-03-25%20at%204.32.01%20PM.jpeg)
    * **Edad:** 20 
-   * **Sobre mí:** Soy Visionario
-   * **Rol:**
-   * **Responsabilidades:**
+   * **Sobre mí:** Estudiante de Ingenieria Biomedica PUCP-UPCH 
+   * **Rol:** Diseñado y modelado 3D
+   * **Responsabilidades:** 
 11. Jhogger Cercado Limay
 
    ![Jhogger](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/WhatsApp%20Image%202026-03-25%20at%204.42.24%20PM.jpeg).
-   * **Edad:*19* 
-   * **Sobre mí:*nose*
-   * **Rol:*Estudiante*
+   * **Edad:** 19 
+   * **Sobre mí:**
+   * **Rol:** 
    * **Responsabilidades:**
