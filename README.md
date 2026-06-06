@@ -19,7 +19,7 @@ Grupo enfocado en crear soluciones en el area de salud ante..., trabajando de fo
    * **Rol:** Gestión 
    * **Responsabilidades:**
 5. Flavia Tasayco Cueva
-   ![Flavia](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/IMG_7878.jpeg)
+   ![Flavia](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/E960F04C-1A14-4052-93BE-B81E8C35FA64.jpeg)
    * **Edad:** 19 años 
    * **Sobre mí:** Estudiante Biomédica PUCP-UPCH
    * **Rol:** Redacción
