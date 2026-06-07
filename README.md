@@ -40,7 +40,7 @@ Grupo enfocado en crear soluciones en el area de salud ante..., trabajando de fo
    * **Responsabilidades:** 
 11. Jhogger Cercado Limay
 
-   ![Jhogger](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/WhatsApp%20Image%202026-03-25%20at%204.42.24%20PM.jpeg).
+   ![Jhogger](https://github.com/Figra2406/Grupo-1-FunBio/blob/main/Imagenes/Zzzz.jpeg?raw=true).
    * **Edad:** 19 
    * **Sobre mí:**
    * **Rol:** 
